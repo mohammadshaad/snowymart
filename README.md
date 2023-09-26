@@ -1,4 +1,4 @@
-# SIH1355_SnowyMart
+# SIH1355 SnowyMart
 Developing solutions to effective market linkage and promotion of One District One Product.
 
 # Website UI
